@@ -1,0 +1,24 @@
+# DeluxeMenus 1.13.6-Release main configuration file
+# 
+# A full wiki on how to use this plugin can be found at:
+# https://wiki.helpch.at/clips-plugins/deluxemenus
+
+debug: false
+check_updates: false
+gui_menus:
+  solo:
+    file: solo.yml
+  doubles:
+    file: doubles.yml
+  3v3v3v3:
+    file: 3v3v3v3.yml
+  4v4v4v4:
+    file: 4v4v4v4.yml
+  shop:
+    file: shop.yml
+  lobbies:
+    file: lobbies.yml
+  mode:
+    file: mode.yml
+  games:
+    file: games_menu.yml
